@@ -379,7 +379,7 @@ After restart:
 - **Password:** Password123!
 - Pressed Enter
 
-![Domain Login](screenshots/24-domain-login.png)
+![Domain Login](screenshots/24-domain-log.png)
 *Logging in as domain user j.smith*
 
 **Step 39: First Login Processing**
