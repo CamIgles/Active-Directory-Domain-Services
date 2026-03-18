@@ -164,7 +164,7 @@ Opened Server Manager → Tools → Active Directory Users and Computers.
 **Step 20: Verify DNS**
 Opened Server Manager → Tools → DNS Manager.
 
-![DNS Manager](screenshots/11-dns-manager.png)
+![DNS Manager](screenshots/11-dns-manage.png)
 *DNS Manager showing forward lookup zone*
 
 **Step 21: Test DNS Resolution**
