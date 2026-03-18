@@ -5,6 +5,7 @@ A Windows Server 2022 virtual machine in Microsoft Azure and configured it as a 
 ## Project Summary
 
 **What This Project Is**
+
 I deployed a Windows Server 2022 virtual machine in Microsoft Azure and configured it as a Domain Controller with Active Directory Domain Services, DNS, and DHCP. This project demonstrates how to set up a complete identity and network infrastructure in the cloud, including user management, name resolution, and automatic IP assignment. This simulates what IT professionals do when setting up a company's core IT services.
 
 **Languages Used**
